@@ -19,7 +19,8 @@ Leia o enunciado completo no Canvas.
 
 ## Print da Home-Page
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/61c9e69d-0ea4-4e26-ad96-8f93f14fc12d" />
+ >>
 
 ## Print da página de detalhes do item
 
